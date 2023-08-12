@@ -1,17 +1,19 @@
 {
   "name": "climate-change-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "hosting a Demo API in on RapidAPI",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "ania kubow",
+  "author": "miss3persin",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.1",
-    "nodemon": "^2.0.13"
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
